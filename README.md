@@ -1,2 +1,1 @@
-# DSA
-Leetcode / GeeksforGeeks 
+<p align="center"> <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/Platform-LeetCode-blue?style=flat-square&logo=leetcode" /> <img src="https://img.shields.io/badge/DSA-Practice-success?style=flat-square&logo=github" /> </p>
