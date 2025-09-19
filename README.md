@@ -1,11 +1,10 @@
 <p align="center"> <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/Platform-LeetCode-blue?style=flat-square&logo=leetcode" /> <img src="https://img.shields.io/badge/DSA-Practice-success?style=flat-square&logo=github" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9d76,100:fc6076&height=200&section=header&text=LeetCode%20DSA%20in%20Java&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?yashsoni904&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 📖 About This Repo
