@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9d76,100:fc6076&height=200&section=header&text=LeetCode%20DSA%20in%20Java&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?yashsoni904&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashsoni904&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 📖 About This Repo
