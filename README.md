@@ -16,12 +16,12 @@ Every solution is written with clean code practices, focusing on readability, op
 
 🧩 Topics Covered
 
-✔️ Arrays & Strings
-✔️ HashMap / HashSet
-✔️ Linked List, Stack & Queue
-✔️ Trees & Graphs (DFS/BFS)
-✔️ Sorting & Searching
-✔️ Binary Search
-✔️ Recursion & Backtracking
-✔️ Dynamic Programming
-✔️ Greedy Algorithms
+- ✔️ Arrays & Strings  
+- ✔️ HashMap / HashSet  
+- ✔️ Linked List, Stack & Queue  
+- ✔️ Trees & Graphs (DFS/BFS)  
+- ✔️ Sorting & Searching  
+- ✔️ Binary Search  
+- ✔️ Recursion & Backtracking  
+- ✔️ Dynamic Programming  
+- ✔️ Greedy Algorithms  
