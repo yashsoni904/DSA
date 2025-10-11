@@ -1,9 +1,10 @@
 class Solution {
     public int titleToNumber(String columnTitle) {
-        int n=0;
-        for(char c:columnTitle.toCharArray()){
-            n=n*26+(c-'A'+1);
+         int ans = 0 ;
+        for(int i = 0 ; i < columnTitle.length() ; i++){
+            int c = columnTitle.charAt(i) - 64;
+            ans = ans * 26 + c;
         }
-        return n;
+        return ans ;
     }
 }
