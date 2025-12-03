@@ -1,38 +1,26 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int V=graph.length;
-    //    List<List<Integer>> adj = new ArrayList<>();
     
-    //    for(int i=0;i<V;i++){
-    //        adj.add(new ArrayList<>());
-    //        for(int it: graph[i]){
-    //              adj.get(i).add(it);
-    //        }
-    //    }
-       int[] color = new int[V];
-       for(int i=0;i<V;i++) color[i]=-1;
+       int[] colorarr = new int[V];
+       for(int i=0;i<V;i++) colorarr[i]=-1;
+
        for(int i=0;i<V;i++){
-           if(color[i]==-1){
-               if(bfscheck(i, V ,color ,graph)==false) return false;
+           if(colorarr[i]==-1){
+               if(dfscheck(i,0 ,colorarr ,graph)==false) return false;
            }
        }
         return true;
     }
-    public boolean bfscheck(int node , int V ,int[] color ,int[][] graph ){
-          Queue<Integer> q=new  LinkedList<>();
-          q.offer(node);
-          color[node]=0;
-          while(!q.isEmpty()){
-              int curr = q.poll();
-              for(int it: graph[curr]){
-                  if(color[it]==-1){
-                     color[it]=1-color[curr];
-                     q.add(it);
-                  }
-                  else if(color[curr]==color[it]) return false;      
-              }
-          }
+    public boolean dfscheck(int node ,int color ,int[] colorarr ,int[][] graph ){
           
+          colorarr[node]=color;
+          for(int it: graph[node]){
+            if(colorarr[it]==-1){
+                if(!dfscheck(it, 1-color ,colorarr ,graph)) return false;
+            }
+            else if(colorarr[it]==colorarr[node]) return false;
+          }
           return true;
     }
 }
