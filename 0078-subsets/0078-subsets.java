@@ -1,20 +1,21 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> result=new ArrayList<>();
-        List<Integer> list;
-        helper(nums , result,new ArrayList<>(),0);
-        return result;
+        List<List<Integer>> ans=new ArrayList<>();
+   
+        helper(nums, 0 , new ArrayList<>() ,ans );
+        return ans;
     }
-    public void helper(int[] nums,List<List<Integer>> result ,List<Integer> list,int i){
-        if(i==nums.length){
-          result.add(new ArrayList<>(list));
-          return;
+    public void helper(int[] arr,int idx ,List<Integer> curr,List<List<Integer>> ans){
+         ans.add(new ArrayList<>(curr));
+            
+        for(int i=idx;i<arr.length;i++){
+       
+        
+        curr.add(arr[i]);
+        helper(arr,i+1,curr ,ans);
+        curr.remove(curr.size()-1);
         }
-
-        helper(nums , result,list,i+1);
-        list.add(nums[i]);
-        helper(nums , result,list,i+1);
-        list.remove(list.size()-1);
+        
         
     }
 }
