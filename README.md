@@ -66,4 +66,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
