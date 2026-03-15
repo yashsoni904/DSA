@@ -62,6 +62,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
