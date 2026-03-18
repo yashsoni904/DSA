@@ -57,6 +57,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
 ## Two Pointers
