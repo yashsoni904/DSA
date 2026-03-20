@@ -91,5 +91,6 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1693-daily-leads-and-partners](https://github.com/yashsoni904/DSA/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yashsoni904/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
