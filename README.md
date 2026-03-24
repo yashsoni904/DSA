@@ -92,6 +92,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/yashsoni904/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashsoni904/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/yashsoni904/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/yashsoni904/DSA/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1795-rearrange-products-table](https://github.com/yashsoni904/DSA/tree/main/1795-rearrange-products-table/) | Easy |
