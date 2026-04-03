@@ -91,6 +91,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/yashsoni904/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yashsoni904/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashsoni904/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/yashsoni904/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
