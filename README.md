@@ -100,6 +100,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0184-department-highest-salary](https://github.com/yashsoni904/DSA/tree/main/0184-department-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/yashsoni904/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yashsoni904/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1148-article-views-i](https://github.com/yashsoni904/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashsoni904/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/yashsoni904/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/yashsoni904/DSA/tree/main/1587-bank-account-summary-ii/) | Easy |
