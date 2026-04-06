@@ -91,6 +91,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/yashsoni904/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yashsoni904/DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/yashsoni904/DSA/tree/main/0183-customers-who-never-order/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yashsoni904/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
