@@ -106,6 +106,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [1484-group-sold-products-by-the-date](https://github.com/yashsoni904/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yashsoni904/DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/yashsoni904/DSA/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/yashsoni904/DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/yashsoni904/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/yashsoni904/DSA/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1795-rearrange-products-table](https://github.com/yashsoni904/DSA/tree/main/1795-rearrange-products-table/) | Easy |
