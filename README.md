@@ -104,6 +104,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0620-not-boring-movies](https://github.com/yashsoni904/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yashsoni904/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/yashsoni904/DSA/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/yashsoni904/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashsoni904/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/yashsoni904/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yashsoni904/DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
