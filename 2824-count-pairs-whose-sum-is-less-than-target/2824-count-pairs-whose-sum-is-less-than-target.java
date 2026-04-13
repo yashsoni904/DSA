@@ -8,14 +8,14 @@ class Solution {
            
            if(i<j){
               if(nums.get(i)+nums.get(j)<target){
-                cnt++;
-                
+                cnt++; 
               }
            }
            j++;
            if(j==n) {
-            j=i+1;
             i++;
+            j=i+1;
+            
            }
         }
         return cnt;
