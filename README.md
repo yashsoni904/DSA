@@ -121,6 +121,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [1661-average-time-of-process-per-machine](https://github.com/yashsoni904/DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/yashsoni904/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/yashsoni904/DSA/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1729-find-followers-count](https://github.com/yashsoni904/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1795-rearrange-products-table](https://github.com/yashsoni904/DSA/tree/main/1795-rearrange-products-table/) | Easy |
 | [1934-confirmation-rate](https://github.com/yashsoni904/DSA/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yashsoni904/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
