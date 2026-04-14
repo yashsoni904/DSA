@@ -103,6 +103,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0197-rising-temperature](https://github.com/yashsoni904/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/yashsoni904/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/yashsoni904/DSA/tree/main/0584-find-customer-referee/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/yashsoni904/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/yashsoni904/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yashsoni904/DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/yashsoni904/DSA/tree/main/1070-product-sales-analysis-iii/) | Medium |
