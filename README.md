@@ -69,6 +69,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/yashsoni904/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,12 +83,14 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
+| [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
