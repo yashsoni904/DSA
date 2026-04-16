@@ -3,7 +3,7 @@ class Solution {
         HashMap<Character , String> chartostr =new HashMap<>();
         HashMap<String, Character> strtochar =new HashMap<>();
 
-        String[] words= s.split("\\s+");
+        String[] words= s.split(" ");
 
         if(words.length!=pattern.length()) return false;
 
