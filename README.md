@@ -59,6 +59,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/yashsoni904/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
