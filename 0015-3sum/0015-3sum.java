@@ -19,8 +19,10 @@ class Solution {
                 else{
                     ans.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
+                    k--;
 
-                    while(j>0 && j<k && nums[j]==nums[j-1]) j++;
+                    while( j<k && nums[j]==nums[j-1]) j++;
+                    while(j<k && nums[k]==nums[k+1]) k--;
                 }
             }
         }
