@@ -141,6 +141,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [1148-article-views-i](https://github.com/yashsoni904/DSA/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/yashsoni904/DSA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/yashsoni904/DSA/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/yashsoni904/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/yashsoni904/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/yashsoni904/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/yashsoni904/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
