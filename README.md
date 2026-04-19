@@ -90,6 +90,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsoni904/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +190,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 <!---LeetCode Topics End-->
