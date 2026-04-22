@@ -92,6 +92,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0322-coin-change](https://github.com/yashsoni904/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yashsoni904/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
@@ -119,6 +120,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/yashsoni904/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
