@@ -59,6 +59,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsoni904/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/yashsoni904/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsoni904/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Array
@@ -88,6 +90,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/yashsoni904/DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsoni904/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0322-coin-change](https://github.com/yashsoni904/DSA/tree/main/0322-coin-change/) | Medium |
@@ -116,6 +119,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/yashsoni904/DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsoni904/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/yashsoni904/DSA/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -202,6 +206,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -223,4 +228,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
