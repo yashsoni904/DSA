@@ -79,6 +79,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +233,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
