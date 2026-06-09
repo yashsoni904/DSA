@@ -59,6 +59,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/yashsoni904/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 ## Math
@@ -247,6 +248,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashsoni904/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/yashsoni904/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yashsoni904/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsoni904/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Depth-First Search
