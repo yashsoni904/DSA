@@ -251,6 +251,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0138-copy-list-with-random-pointer](https://github.com/yashsoni904/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yashsoni904/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsoni904/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/yashsoni904/DSA/tree/main/0707-design-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +260,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsoni904/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/yashsoni904/DSA/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
