@@ -256,6 +256,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsoni904/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,4 +265,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/yashsoni904/DSA/tree/main/0707-design-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
