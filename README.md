@@ -89,6 +89,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0018-4sum](https://github.com/yashsoni904/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yashsoni904/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/yashsoni904/DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsoni904/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -189,6 +190,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yashsoni904/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
