@@ -8,15 +8,15 @@ class Solution {
             if(board[0][i]=='O' && !vis[0][i]){
                 dfs(board , 0 , i , vis , m , n);
             }
-            if(board[m-1][i]=='O' && !vis[0][i]){
+            if(board[m-1][i]=='O' && !vis[m-1][i]){
                 dfs(board , m-1 , i , vis , m , n);
             }
         }
         for(int i=0;i<m;i++){
-            if(board[i][0]=='O' && !vis[0][i]){
+            if(board[i][0]=='O' && !vis[i][0]){
                 dfs(board , i, 0, vis , m , n);
             }
-            if(board[i][n-1]=='O' && !vis[0][i]){
+            if(board[i][n-1]=='O' && !vis[i][n-1]){
                 dfs(board , i  , n-1 , vis , m , n);
             }
         }
@@ -28,7 +28,9 @@ class Solution {
         }
     }
     public void dfs(char[][] board,int r,int c,boolean[][] vis,int m,int n){
-        if(r<0 && c<0 && r>m )
+        if(r<0 || c<0 || r>=m || c>=n ) return;
+        if(vis[r][c]) return;
+        if(board[r][c]!='O') return;
         vis[r][c]=true;
         int[] drow = {-1,0,1,0};
         int[] dcol = {0,1,0,-1};
