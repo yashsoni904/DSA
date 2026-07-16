@@ -85,6 +85,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/yashsoni904/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yashsoni904/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsoni904/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -106,6 +107,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yashsoni904/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/yashsoni904/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsoni904/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -283,4 +285,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/yashsoni904/DSA/tree/main/0130-surrounded-regions/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yashsoni904/DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
