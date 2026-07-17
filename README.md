@@ -59,6 +59,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashsoni904/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/yashsoni904/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/yashsoni904/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
@@ -94,6 +95,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/yashsoni904/DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsoni904/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/yashsoni904/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/yashsoni904/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -284,6 +286,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashsoni904/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/yashsoni904/DSA/tree/main/0130-surrounded-regions/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
