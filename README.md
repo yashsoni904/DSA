@@ -100,6 +100,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0322-coin-change](https://github.com/yashsoni904/DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yashsoni904/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
@@ -203,6 +204,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0015-3sum](https://github.com/yashsoni904/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/yashsoni904/DSA/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -292,4 +295,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashsoni904/DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
