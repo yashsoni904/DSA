@@ -102,6 +102,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0152-maximum-product-subarray](https://github.com/yashsoni904/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/yashsoni904/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/yashsoni904/DSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -324,4 +325,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashsoni904/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
