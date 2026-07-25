@@ -72,6 +72,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/yashsoni904/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/yashsoni904/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
