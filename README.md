@@ -201,6 +201,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [1907-count-salary-categories](https://github.com/yashsoni904/DSA/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/yashsoni904/DSA/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yashsoni904/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/yashsoni904/DSA/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
