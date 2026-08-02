@@ -1,9 +1,10 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
-        String c="";
-        for(int i=s.length()-1;i>=0;i--){
-            c+=s.charAt(i);
-        }   
+        // String c="";
+        // for(int i=s.length()-1;i>=0;i--){
+        //     c+=s.charAt(i);
+        // }   
+        String c = new StringBuffer(s).reverse().toString();
         Integer[][] dp = new Integer[s.length()][c.length()];
         return solve(0,0,s,c,dp);
     }
