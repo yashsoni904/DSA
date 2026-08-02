@@ -84,6 +84,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yashsoni904/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/yashsoni904/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yashsoni904/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashsoni904/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -148,6 +149,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yashsoni904/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/yashsoni904/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yashsoni904/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashsoni904/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
