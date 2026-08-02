@@ -85,6 +85,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yashsoni904/DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yashsoni904/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashsoni904/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yashsoni904/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashsoni904/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
