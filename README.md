@@ -114,6 +114,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yashsoni904/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/yashsoni904/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -215,6 +216,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashsoni904/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/yashsoni904/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
