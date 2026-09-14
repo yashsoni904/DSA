@@ -251,6 +251,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/yashsoni904/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/yashsoni904/DSA/tree/main/0322-coin-change/) | Medium |
 ## Divide and Conquer
@@ -290,6 +291,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/yashsoni904/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yashsoni904/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -304,10 +306,12 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/yashsoni904/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
