@@ -64,6 +64,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yashsoni904/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yashsoni904/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +346,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yashsoni904/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
