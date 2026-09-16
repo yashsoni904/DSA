@@ -67,6 +67,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yashsoni904/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
@@ -235,6 +236,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yashsoni904/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yashsoni904/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -283,6 +285,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/yashsoni904/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashsoni904/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/yashsoni904/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yashsoni904/DSA/tree/main/0206-reverse-linked-list/) | Easy |
