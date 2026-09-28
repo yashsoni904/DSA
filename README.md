@@ -71,6 +71,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0002-add-two-numbers](https://github.com/yashsoni904/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/yashsoni904/DSA/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/yashsoni904/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashsoni904/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -82,6 +83,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0014-longest-common-prefix](https://github.com/yashsoni904/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsoni904/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/yashsoni904/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/yashsoni904/DSA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsoni904/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/yashsoni904/DSA/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/yashsoni904/DSA/tree/main/0290-word-pattern/) | Easy |
@@ -288,6 +290,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yashsoni904/DSA/tree/main/0067-add-binary/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yashsoni904/DSA/tree/main/0067-add-binary/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
