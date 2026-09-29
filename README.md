@@ -70,6 +70,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yashsoni904/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/yashsoni904/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/yashsoni904/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/yashsoni904/DSA/tree/main/0067-add-binary/) | Easy |
