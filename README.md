@@ -124,6 +124,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0875-koko-eating-bananas](https://github.com/yashsoni904/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashsoni904/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/yashsoni904/DSA/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
@@ -142,6 +143,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0283-move-zeroes](https://github.com/yashsoni904/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashsoni904/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashsoni904/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashsoni904/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String Matching
@@ -336,6 +339,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashsoni904/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/yashsoni904/DSA/tree/main/0055-jump-game/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashsoni904/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
