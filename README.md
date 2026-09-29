@@ -106,6 +106,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0018-4sum](https://github.com/yashsoni904/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/yashsoni904/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/yashsoni904/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/yashsoni904/DSA/tree/main/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashsoni904/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -140,6 +141,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yashsoni904/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashsoni904/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/yashsoni904/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashsoni904/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashsoni904/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -152,6 +154,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yashsoni904/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/yashsoni904/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/yashsoni904/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yashsoni904/DSA/tree/main/0070-climbing-stairs/) | Easy |
@@ -294,6 +297,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yashsoni904/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/yashsoni904/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -373,4 +377,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashsoni904/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/yashsoni904/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
