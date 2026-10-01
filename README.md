@@ -126,6 +126,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yashsoni904/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/yashsoni904/DSA/tree/main/0518-coin-change-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yashsoni904/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yashsoni904/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashsoni904/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/yashsoni904/DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -149,6 +150,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0283-move-zeroes](https://github.com/yashsoni904/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/yashsoni904/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/yashsoni904/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashsoni904/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Dynamic Programming
@@ -234,6 +236,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashsoni904/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/yashsoni904/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yashsoni904/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/yashsoni904/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
@@ -245,6 +248,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | [0088-merge-sorted-array](https://github.com/yashsoni904/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yashsoni904/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashsoni904/DSA/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/yashsoni904/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashsoni904/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -354,6 +358,7 @@ Visit my profile and give a ⭐️ if you like it</p>
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsoni904/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashsoni904/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/yashsoni904/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,4 +386,8 @@ Visit my profile and give a ⭐️ if you like it</p>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsoni904/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/yashsoni904/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
